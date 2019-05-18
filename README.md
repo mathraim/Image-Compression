@@ -23,4 +23,4 @@ In the second part, I implemented principal component analysis to find a low-dim
 - **computeCentroids.m** - Compute centroid means (used in K-means)
 - **kMeansInitCentroids.m** - Initialization for K-means centroids
 
-Submited to Machine Learning Coursera course as Stanford
+Submited to and evaluated by Machine Learning Coursera course as Stanford
